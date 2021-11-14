@@ -1,11 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
 #Hoda Mohammed Salah
-#ID: 19040
 #Bayes Classifier for Normal Distributions with single feature vector (x)
 import numpy as np
 import statistics
