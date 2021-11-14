@@ -42,10 +42,3 @@ elif (g2 > g1) & (g2 > g3):
 
 else:
     print('The classification result for the unknown pattern x is that it belongs to class 3')
-
-
-# In[ ]:
-
-
-
-
