@@ -1,5 +1,6 @@
-#Hoda Mohammed Salah
-#Bayes Classifier for Normal Distributions with single feature vector (x)
+#By: Hoda Salah
+#Bayes Classifier for Normal Distributions - univariate (with single feature vector (x))
+#Three Classes with 10 samples for each class
 import numpy as np
 import statistics
 
