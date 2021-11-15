@@ -1,12 +1,6 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[57]:
-
-
-#Hoda Mohammed Salah
-#ID: 19040
-#Bayes Classifier for Normal Distributions with three feature vectors (x1,x2,x3)
+#By: Hoda Salah
+#Bayes Classifier for Normal Distributions - multivariate (with more than one feature vector (x1,x2,x3))
+#Three Classes with 10 samples for each class
 import numpy as np
 from numpy.linalg import inv
 import pandas as pd
@@ -94,18 +88,3 @@ elif (g2 > g1) & (g2 > g3):
 
 else:
     print('The classification result for the unknown pattern x is that it belongs to class 3')
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
