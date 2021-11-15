@@ -1,5 +1,5 @@
 # Bayes Classifier
-## For the NormalDistributed Classes
+## For the Normally Distributed Classes
 ##Two types: 1. Univariate 2. Multivariate 
 ### 1. Univariate: for single feature vector
 ### 2. Multivariate: for more than one feature vector
